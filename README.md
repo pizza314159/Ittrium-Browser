@@ -42,12 +42,3 @@ It includes built-in support for VPN configuration files, Tor proxy mode, and mu
 ### System Requirements
 - Python 3.10+
 - Linux / Windows (Linux recommended for VPN/Tor features)
-
----
-
-## 📦 Python Dependencies
-
-Install required packages:
-
-```bash
-pip install PySide6 PySide6-Addons PySide6-Essentials
