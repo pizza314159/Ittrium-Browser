@@ -1,6 +1,6 @@
-# 🧭 ByteBrowser
+# 🧭 Ittrium Browser
 
-**ByteBrowser** is an AI-assisted, privacy-focused web browser built with Python and Qt.  
+**Ittrium Browser** is an AI-assisted, privacy-focused web browser built with Python and Qt.  
 It includes built-in support for VPN configuration files, Tor proxy mode, and multiple browser hardening features like tracker blocking, HTTPS enforcement, and fingerprinting mitigation.
 
 ---
